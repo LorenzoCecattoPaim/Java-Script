@@ -20,3 +20,6 @@ footer{
     text-align: center;
     font-style: italic;
 }
+select{
+    width: 200px;
+}
